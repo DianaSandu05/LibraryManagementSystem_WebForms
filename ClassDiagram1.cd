@@ -1,0 +1,88 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="LibraryManagementAssignment16451.adminLogin">
+    <Position X="2.75" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAgAAAACAAAAAAAAAgAAAAQQAAAAAAAAAIAAAA=</HashCode>
+      <FileName>adminLogin.aspx.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LibraryManagementAssignment16451.authorManagement">
+    <Position X="8.75" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAIAAAgAAIACAAAAAAAQDgAAAAQcCiAAAAAAAIAABA=</HashCode>
+      <FileName>authorManagement.aspx.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LibraryManagementAssignment16451.bookManagement">
+    <Position X="10.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AYiDAEAgAIAcCAAAQEAiQjgAAAAQcAgAAAAYAQIACAA=</HashCode>
+      <FileName>bookManagement.aspx.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LibraryManagementAssignment16451.homepage">
+    <Position X="7" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAA=</HashCode>
+      <FileName>homepage.aspx.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LibraryManagementAssignment16451.lendingManagement">
+    <Position X="9" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIABQAAgAIAACAEAAEAgQBgAAAAQYAgAAAAAAB4AAIE=</HashCode>
+      <FileName>lendingManagement.aspx.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LibraryManagementAssignment16451.memberManagement">
+    <Position X="12.75" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAgUAgAMAACAAgAEAgABBQABASICAIBAAAAAMAAgA=</HashCode>
+      <FileName>memberManagement.aspx.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LibraryManagementAssignment16451.memberProfile">
+    <Position X="12.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIABgECgEAARCAAAAEAgABgAAAAQQAAAAAAAAAIBAAE=</HashCode>
+      <FileName>memberProfile.aspx.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LibraryManagementAssignment16451.publisherManagement">
+    <Position X="7.25" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAAAAgAAAACAAAAAACQDgAAQBQcAgAAAAAAQIIAAA=</HashCode>
+      <FileName>publisherManagement.aspx.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LibraryManagementAssignment16451.Site1">
+    <Position X="5.25" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAgAAgEAAgAAgAAAAAAQRIAAABBAIBAAAAgMAAgA=</HashCode>
+      <FileName>Site1.Master.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LibraryManagementAssignment16451.userLogin">
+    <Position X="2.75" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAgAAAACAAAAAAAAAgAAAAQQAAAAAAAAAIAAAA=</HashCode>
+      <FileName>userLogin.aspx.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LibraryManagementAssignment16451.userSignup">
+    <Position X="0.5" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABgGAgAAAQCAAAAEAgABgAAAAQQAAAAAEAAAIAAAA=</HashCode>
+      <FileName>userSignup.aspx.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LibraryManagementAssignment16451.viewBooks">
+    <Position X="6.25" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAAAAAEAAAAAAAAAAAAAAAAAAQAAABAAAAAAIAAAA=</HashCode>
+      <FileName>viewBooks.aspx.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
